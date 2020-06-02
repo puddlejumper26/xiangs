@@ -1,0 +1,89 @@
+html, body {
+  height: 100%;
+}
+
+div.about-section {
+  background: rgba($color: lightgrey, $alpha: 0.3);
+  border: 1px solid skyblue;
+  border-radius: 2px;
+  box-shadow: 0 20px 30px rgba(7, 1, 1, 1);
+  color: cyan;
+  height:950px;
+  position: relative;
+  width: 1024px;
+  // to make the other component stay in the center
+  left: 0;
+  top: 10px;
+  right: 0;
+  bottom: 10px;
+  margin: 0 auto;
+}
+
+div.photo {
+  margin: 60px 40px 40px 40px;
+  position: relative;
+}
+
+img {
+  border: 1px solid cyan;
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5);
+  height: 150px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -65px;
+  margin-left: -35px;
+}
+
+div.certificate,
+p {
+  margin: 50px;
+}
+
+span, a {
+  color: cyan;
+}
+
+span { margin-right: 20px;}
+
+/*Moving blue chips*/
+#wrap {
+  display: flex;
+  justify-content: center;
+}
+#wrap div {
+  background-color: cyan;
+  border-radius: 10%;
+  float: left;
+  height: 30px;
+  margin-left: 10px;
+  width: 4px;
+  -webkit-animation: fadeOut 3s infinite ease-in-out;
+}
+
+@-webkit-keyframes fadeOut {
+  0%,
+  80%,
+  100% {
+    -webkit-transform: scaleY(0.4);
+  }
+  20% {
+    -webkit-transform: scaleY(1);
+  }
+}
+
+#wrap .line1 {
+  -webkit-animation-delay: -0.9s;
+}
+#wrap .line2 {
+  -webkit-animation-delay: -0.8s;
+}
+#wrap .line3 {
+  -webkit-animation-delay: -0.7s;
+}
+#wrap .line4 {
+  -webkit-animation-delay: -0.8s;
+}
+#wrap .line5 {
+  -webkit-animation-delay: -0.9s;
+}

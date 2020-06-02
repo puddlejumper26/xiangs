@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+}
+
+.home {
+  background-color: gray;
+  background: url(../../../assets/ranbing.mp4) no-repeat center 0px;
+}
+
+video {
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: 100%;
+  z-index: -100;
+  background-size: cover;
+}
+
+div.website-name {
+  color: whitesmoke;
+  font-size: 50px;
+  left: 570px;
+  position: absolute; // in order to make the div out of flow
+  text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
+  top: 45px;
+}

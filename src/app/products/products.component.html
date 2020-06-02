@@ -1,0 +1,10 @@
+<mat-sidenav-container>
+  <mat-sidenav #sideNav mode="over">
+    <app-sidebar (customClick)="sideNav.close()"></app-sidebar>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <button mat-button (click)="sideNav.open()">三</button>
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>

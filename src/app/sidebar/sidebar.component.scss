@@ -1,0 +1,17 @@
+div {
+  display: flex;
+  flex-direction: column;
+  margin: 50px 0 0 25px;
+}
+
+a {
+  color: cyan;
+  font-size: larger;
+  font-weight: 900;
+  margin: 15px;
+  text-decoration: none;
+}
+
+a:focus {
+  outline: none;
+}
