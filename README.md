@@ -1,4 +1,4 @@
-<h1 align="center"> Xiangs Webstie </h1>
+<h1 align="center"> Xiangs Website </h1>
 
 This is the record of building a website by myself.
 
