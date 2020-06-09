@@ -1,27 +1,58 @@
-# Xiangs
+<h1 align="center"> Xiangs Webstie </h1>
+This blog is the record of building a website by myself.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+I owned a website year ago, but it was written in JS, now I would like to re-write it through new tools. Main reason behind, is because name-cheap is too nasty..
 
-## Development server
+This blog is going to take record of every detailed step.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Frame + Tool
+- Angular
+- Angular Material
+-- Angular FlexLayout (https://blog.poychang.net/use-angular-flex-layout-package/)
+- SCSS
+- VS Code
 
-## Code scaffolding
+## Website Structures
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+It is a *Single Page Application*, taking references from [Angular Material ](https://material.angular.io/components/categories) to decide which component should generate
 
-## Build
+- Navbar ( Breadcrum) (Deprecated)
+- Sidebar
+-- Home
+-- About
+-- Projects
+-- Showcases (directly to github page)
+-- Blog (directly to github page)
+-- Contacts
+- Products ( to display all contents)
+- Footer
+- 404
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+# Guidelines
+ Install Node.js, npm, Angular, Angular Material
+<h3>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+[Main component - app.component](https://github.com/puddlejumper26/blogs/issues/138)
 
-## Running end-to-end tests
+[4 basic components](https://github.com/puddlejumper26/blogs/issues/130)
+--[navbar](https://github.com/puddlejumper26/blogs/issues/134) (deprecated)
+--[sidebar](https://github.com/puddlejumper26/blogs/issues/135)
+--[prodcuts](https://github.com/puddlejumper26/blogs/issues/136)
+--[footer](https://github.com/puddlejumper26/blogs/issues/137)
+--[code404](https://github.com/puddlejumper26/blogs/issues/144)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+[sidebar-subcomponents](https://github.com/puddlejumper26/blogs/issues/131)
+--[home](https://github.com/puddlejumper26/blogs/issues/139)
+--[about](https://github.com/puddlejumper26/blogs/issues/140)
+--[projects](https://github.com/puddlejumper26/blogs/issues/141)
+--[showcases](https://github.com/puddlejumper26/blogs/issues/142)(deprecated)
+--[contact](https://github.com/puddlejumper26/blogs/issues/143)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+[functional components](https://github.com/puddlejumper26/blogs/issues/132)
+[Problem to be solved](https://github.com/puddlejumper26/blogs/issues/133)
+
+Color Theming
+
+</h3>
