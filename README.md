@@ -29,3 +29,5 @@ It is a *Single Page Application*, taking references from [Angular Material ](ht
 - 404<br>
 
 ## [Guidelines](https://github.com/puddlejumper26/xiangs/issues/1) (https://github.com/puddlejumper26/xiangs/issues/1)
+
+Record the `entire process` and `each step` to build this website
