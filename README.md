@@ -4,7 +4,7 @@ This is the record of building a website by myself.
 
 I owned a website year ago, but it was written in JS, now I would like to re-write it through new tools. Main reason behind, is because I don't know how to un-bind with name-cheap..
 
-This blog is going to take record of `every detailed step`.
+This blog is going to take record of `every step in detail`.
 
 
 ## [Guidelines](https://github.com/puddlejumper26/xiangs/issues/1) (https://github.com/puddlejumper26/xiangs/issues/1)
