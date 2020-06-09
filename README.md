@@ -3,7 +3,7 @@ This blog is the record of building a website by myself.
 
 I owned a website year ago, but it was written in JS, now I would like to re-write it through new tools. Main reason behind, is because name-cheap is too nasty..
 
-This blog is going to take record of every detailed step.
+This blog is going to take record of `every detailed step`.
 
 ## Frame + Tool
 - Angular
