@@ -11,6 +11,25 @@ This blog is going to take record of `every step in detail`.
 
 Record the `entire process` and `each step` to build this website
 
+## Demo
+
+### Home Page
+
+![20200609_194107](https://user-images.githubusercontent.com/40550117/84143540-5619e300-aa89-11ea-8eea-ef7f99d83be7.gif)
+
+### About Page
+
+![20200609_194611](https://user-images.githubusercontent.com/40550117/84143918-f7a13480-aa89-11ea-8ae5-f8094cdd14bb.gif)
+
+### Project Page
+
+![20200609_194737](https://user-images.githubusercontent.com/40550117/84144019-26b7a600-aa8a-11ea-8520-510c659cf60c.gif)
+
+### Code 404 Page
+
+![20200609_194936](https://user-images.githubusercontent.com/40550117/84144194-6ed6c880-aa8a-11ea-9a97-d06663c45084.gif)
+
+
 ## Frame + Tool
 - Angular
 - Angular Material
