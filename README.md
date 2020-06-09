@@ -1,7 +1,7 @@
 <h1 align="center"> Xiangs Webstie </h1>
 This blog is the record of building a website by myself.
 
-I owned a website year ago, but it was written in JS, now I would like to re-write it through new tools. Main reason behind, is because name-cheap is too nasty..
+I owned a website year ago, but it was written in JS, now I would like to re-write it through new tools. Main reason behind, is because I don'r know how to un-bind with name-cheap..
 
 This blog is going to take record of `every detailed step`.
 
