@@ -2,6 +2,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { BrowserModule } from '@angular/platform-browser';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { MatButtonModule } from '@angular/material/button';
+import { MatExpansionModule } from '@angular/material/expansion';
+import {MatFormFieldModule} from '@angular/material/form-field';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { NgModule } from '@angular/core';
@@ -41,10 +43,12 @@ import { SidebarComponent } from './sidebar/sidebar.component';
     BrowserModule,
     FlexLayoutModule,
     MatButtonModule,
+    MatExpansionModule,
+    MatFormFieldModule,
     MatSidenavModule,
     MatToolbarModule,
   ],
-  exports: [MatButtonModule, MatSidenavModule, MatToolbarModule],
+  exports: [MatButtonModule, MatExpansionModule, MatFormFieldModule, MatSidenavModule, MatToolbarModule],
   providers: [],
   bootstrap: [AppComponent],
 })
