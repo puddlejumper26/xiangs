@@ -5,6 +5,11 @@ I owned a website year ago, but it was written in JS, now I would like to re-wri
 
 This blog is going to take record of `every detailed step`.
 
+
+## [Guidelines](https://github.com/puddlejumper26/xiangs/issues/1) (https://github.com/puddlejumper26/xiangs/issues/1)
+
+Record the `entire process` and `each step` to build this website
+
 ## Frame + Tool
 - Angular
 - Angular Material
@@ -28,6 +33,3 @@ It is a *Single Page Application*, taking references from [Angular Material ](ht
 - Footer (Deprecated)<br>
 - 404<br>
 
-## [Guidelines](https://github.com/puddlejumper26/xiangs/issues/1) (https://github.com/puddlejumper26/xiangs/issues/1)
-
-Record the `entire process` and `each step` to build this website
