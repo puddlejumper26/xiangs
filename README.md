@@ -30,28 +30,32 @@ It is a *Single Page Application*, taking references from [Angular Material ](ht
 
 
 # Guidelines
- Install Node.js, npm, Angular, Angular Material
 <h3>
 
-[Main component - app.component](https://github.com/puddlejumper26/blogs/issues/138)
+### Preparation
+Install Node.js, npm, Angular <br>
+Apply Angular Material
 
-[4 basic components](https://github.com/puddlejumper26/blogs/issues/130)
---[navbar](https://github.com/puddlejumper26/blogs/issues/134) (deprecated)
---[sidebar](https://github.com/puddlejumper26/blogs/issues/135)
---[prodcuts](https://github.com/puddlejumper26/blogs/issues/136)
---[footer](https://github.com/puddlejumper26/blogs/issues/137)
---[code404](https://github.com/puddlejumper26/blogs/issues/144)
+### Component
+[Main component - app.component](https://github.com/puddlejumper26/blogs/issues/138)<br><br>
 
-[sidebar-subcomponents](https://github.com/puddlejumper26/blogs/issues/131)
---[home](https://github.com/puddlejumper26/blogs/issues/139)
---[about](https://github.com/puddlejumper26/blogs/issues/140)
---[projects](https://github.com/puddlejumper26/blogs/issues/141)
---[showcases](https://github.com/puddlejumper26/blogs/issues/142)(deprecated)
---[contact](https://github.com/puddlejumper26/blogs/issues/143)
+[4 basic components](https://github.com/puddlejumper26/blogs/issues/130)<br>
+-[navbar](https://github.com/puddlejumper26/blogs/issues/134) (deprecated)<br>
+-[sidebar](https://github.com/puddlejumper26/blogs/issues/135)<br><br>
 
+--[sidebar-subcomponents](https://github.com/puddlejumper26/blogs/issues/131)<br>
+--[home](https://github.com/puddlejumper26/blogs/issues/139)<br>
+--[about](https://github.com/puddlejumper26/blogs/issues/140)<br>
+--[projects](https://github.com/puddlejumper26/blogs/issues/141)<br>
+--[showcases](https://github.com/puddlejumper26/blogs/issues/142)(deprecated)<br>
+--[contact](https://github.com/puddlejumper26/blogs/issues/143)<br><br>
 
-[functional components](https://github.com/puddlejumper26/blogs/issues/132)
-[Problem to be solved](https://github.com/puddlejumper26/blogs/issues/133)
+-[prodcuts](https://github.com/puddlejumper26/blogs/issues/136)<br>
+-[footer](https://github.com/puddlejumper26/blogs/issues/137)<br>
+-[code404](https://github.com/puddlejumper26/blogs/issues/144)<br><br>
+
+[functional components](https://github.com/puddlejumper26/blogs/issues/132)<br>
+[Problem to be solved](https://github.com/puddlejumper26/blogs/issues/133)<br>
 
 Color Theming
 
