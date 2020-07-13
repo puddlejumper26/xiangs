@@ -25,3 +25,24 @@ div.website-name {
   text-shadow: 1px 1px black, 2px 2px black, 3px 3px black, 4px 4px black;
   top: 45px;
 }
+
+div.replace-section {
+  background: rgba($color: lightgrey, $alpha: 0.3);
+  border: 1px solid skyblue;
+  border-radius: 2px;
+  box-shadow: 0 20px 30px rgba(7, 1, 1, 1);
+  color: white;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height:100px;
+  width: 1024px;
+  z-index: 99;
+  // // to make the other component stay in the center
+  // left: 0;
+  // top: 50px;
+  // right: 0;
+  // bottom: 10px;
+  // margin: 0 auto;
+}
