@@ -11,7 +11,7 @@ This blog is going to take record of `every step in detail`.
 
 Record the `entire process` and `each step` to build this website
 
-## [Website Link](https://puddlejumper26.github.io/xiangs/)
+## [Website Link](https://puddlejumper26.github.io/xiangs/) (https://puddlejumper26.github.io/xiangs/)
 
 ### Home Page
 
