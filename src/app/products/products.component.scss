@@ -20,8 +20,9 @@ mat-sidenav {
 }
 
 button {
-  color: white;
+  color: cyan;
   background: black;
+  border: 1px dashed cyan;
   opacity: 0.6;
   position: fixed; // in order to make the button out of flow
   z-index: 99;

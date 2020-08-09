@@ -1,6 +1,7 @@
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { BrowserModule } from '@angular/platform-browser';
 import { FlexLayoutModule } from '@angular/flex-layout';
+import { HttpClientModule } from '@angular/common/http';
 import { MatButtonModule } from '@angular/material/button';
 import { MatExpansionModule } from '@angular/material/expansion';
 import {MatFormFieldModule} from '@angular/material/form-field';
@@ -21,6 +22,7 @@ import { ProductsComponent } from './products/products.component';
 import { ProjectsComponent } from './subcomponents/projects/projects.component';
 import { ShowcasesComponent } from './subcomponents/showcases/showcases.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
+import { VideoService } from './video.service';
 
 @NgModule({
   declarations: [
@@ -42,6 +44,7 @@ import { SidebarComponent } from './sidebar/sidebar.component';
     BrowserAnimationsModule,
     BrowserModule,
     FlexLayoutModule,
+    HttpClientModule,
     MatButtonModule,
     MatExpansionModule,
     MatFormFieldModule,
@@ -49,7 +52,7 @@ import { SidebarComponent } from './sidebar/sidebar.component';
     MatToolbarModule,
   ],
   exports: [MatButtonModule, MatExpansionModule, MatFormFieldModule, MatSidenavModule, MatToolbarModule],
-  providers: [],
+  providers: [VideoService],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
