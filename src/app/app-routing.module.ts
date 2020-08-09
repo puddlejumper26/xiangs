@@ -15,7 +15,7 @@ const routes: Routes = [
   {path:'projects',component: ProjectsComponent},
   {path:'showcases',component: ShowcasesComponent},
   {path:'blog',component: BlogComponent},
-  {path:'contacts',component: ContactComponent},
+  // {path:'contacts',component: ContactComponent},
   {path:'**', component: Code404Component}
 ];
 
