@@ -25,7 +25,7 @@ Record the `entire process` and `each step` to build this website
 
 ![20200609_194737](https://user-images.githubusercontent.com/40550117/84144019-26b7a600-aa8a-11ea-8520-510c659cf60c.gif)
 
-### Code 404 Page
+### Code 404 Page  (with breathing light effects)
 
 ![20200609_194936](https://user-images.githubusercontent.com/40550117/84144194-6ed6c880-aa8a-11ea-9a97-d06663c45084.gif)
 
