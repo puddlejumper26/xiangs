@@ -12,14 +12,14 @@ export class HomeComponent implements OnInit {
   ngOnInit(): void {
     this.videoService.getVideo().subscribe(data => {
       this.videoData = data;
-      this.videoData.url = 'https://www.w3schools.com/html/mov_bbb.mp4';
+      this.videoData.url = 'https://www.youtube.com/watch?v=rxBfbd0Zt4g';
       setTimeout(() => {
           let audioPlayer = <HTMLVideoElement> document.getElementById('video1');
           audioPlayer.play();
           // document.getElementById('video1').play();
       }, 1000);
     }, (error) => {
-      this.videoData.url = 'https://www.w3schools.com/html/mov_bbb.mp4';
+      this.videoData.url = 'https://www.youtube.com/watch?v=rxBfbd0Zt4g';
       setTimeout(() => {
           let audioPlayer = <HTMLVideoElement> document.getElementById('video1');
           audioPlayer.play();
