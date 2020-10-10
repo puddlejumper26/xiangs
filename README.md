@@ -1,6 +1,6 @@
 <h1 align="center"> Xiangs Website </h1>
 
-# I will build a new website, lastest in Oct. 2020
+# I will build a new website, lastest in Oct. 2020  ===> Please check [GITHUB](https://github.com/puddlejumper26/homepage) and [HOMEPAGE](https://puddlejumper26.github.io/homepage/index.html)
 
 *
 *
